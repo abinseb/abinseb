@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abin Sebastian</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vimalprakash404&label=Profile%20views&color=0e75b6&style=flat" alt="vimalprakash404" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinseb&label=Profile%20views&color=0e75b6&style=flat" alt="abinseb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vimalprakash404" alt="vimalprakash404" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinseb" alt="abinseb" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript, recat js and next js**
 
